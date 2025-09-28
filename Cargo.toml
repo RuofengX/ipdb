@@ -1,7 +1,7 @@
 [package]
-name = "ipdb"
-version = "0.1.4"
-authors = ["yi lu <luyikk@126.com>"]
+name = "better-ipdb"
+version = "0.1.0"
+authors = ["yi lu <luyikk@126.com>", "ruofeng <i@ruofengx.cn>"]
 edition = "2018"
 repository = "https://github.com/luyikk/ipdb"
 documentation = "https://docs.rs/ipdb"
